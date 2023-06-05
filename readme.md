@@ -10,7 +10,7 @@ CashDash is a web-based application designed to help users track their personal 
 
 - **Integration with Splitwise**: Integration with Splitwise enables users to sync shared bills and expenses, making it easier to manage shared finances and track individual contributions.
 
-- **External Account Integration**: The dashboard supports integration with external bank accounts and investment apps, allowing users to view their account balances, portfolio performance, and transaction history within the application.
+- **External Account Integration**: The dashboard supports integration with external bank accounts and investment apps, allowing users to view their account balances, portfolio performance, and transaction history within the application. This will then update the database periodically, based on the availability or pricing plans of external APIs.
 
 ## Architecture
 
